@@ -1,0 +1,44 @@
+.blok1{
+    position: absolute;
+    top: 100px;
+    left: 0;
+}
+
+.circle{
+    position: absolute;
+    top: 40px;
+    left: 0;
+}
+
+.engine1{
+    position: absolute;
+    top: 180px;
+    left: -30px;   
+}
+.engine2{
+    position: absolute;
+    top: 180px;
+    left: 10px;   
+}
+
+.engine3{
+    position: absolute;
+    top: 180px;
+    left: 50px;   
+}
+
+
+
+div.raket{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+
+div.raket:hover{
+    transition: 3s;
+    position: absolute;
+    top: 0px;
+    left: 200px;
+}
+
